@@ -624,7 +624,7 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 50px;
+  height: 100px;
   display: block;
   background: none;
 }
@@ -637,6 +637,7 @@ section {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #222222;
+  text-align: center;
 }
 
 .skills .progress .skill .val {
@@ -653,6 +654,12 @@ section {
   height: 10px;
   transition: .9s;
   background-color: #34b7a7;
+}
+
+.skillImage{
+  height: 100px;
+  width: 100px;
+
 }
 
 /*--------------------------------------------------------------
@@ -1291,3 +1298,4 @@ section {
 #footer .credits a {
   color: #34b7a7;
 }
+
