@@ -624,7 +624,7 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 100px;
+  height: 80px;
   display: block;
   background: none;
 }
@@ -657,8 +657,8 @@ section {
 }
 
 .skillImage{
-  height: 100px;
-  width: 100px;
+  height: 60px;
+  width: 60px;
 
 }
 
